@@ -263,6 +263,7 @@ const CAT = {
 // ---------- Products data (essentials first: rice, wheat, eggs, water, milk, dates, mangoes) ----------
 const PRODUCTS = [
   // ===== ESSENTIALS FIRST =====
+  
   {
     cat: "grains",
     brand: "LuLu",
