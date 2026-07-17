@@ -1,5 +1,6 @@
 // ---------- Translations ----------
 
+
 const I18N = {
   en: {
     "topbar.welcome": "Welcome to Lulu Hypermarket Saudi Arabia",
