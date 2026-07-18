@@ -455,6 +455,7 @@ const HERO_SPOT_IMG_FRAGMENTS = ["rice-13.jpg", "ghee-3.jpg", "vimto-cordial.jpg
 const PLAY_STORE_URL =
   "https://github.com/Luluhypermart/luluhyper1/releases/download/xd2/LuLu-Hypermarket.17.apk";
 
+
 /** Teaser tiles inspired by clearance-style “unlock in app” rows (marketing demo only). */
 const LOCKED_DEALS = [
   {
